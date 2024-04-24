@@ -20,6 +20,7 @@ const HomePage = () => {
             Download the BCEat App for faster ordering and personalized
             recommendations
           </span>
+          <span>Coming Soon!</span>
           <img src={appDownloadImage} />
         </div>
       </div>
